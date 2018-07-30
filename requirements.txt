@@ -1,0 +1,6 @@
+bcrypt
+fuzzywuzzy
+pycrypto
+pyperclip
+python-Levenshtein
+
