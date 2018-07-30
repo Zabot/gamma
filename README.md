@@ -16,6 +16,10 @@ pip install .
 
 # Usage
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/194071.png)](https://asciinema.org/a/194071)
+
 ## Adding an account
 
 ```
